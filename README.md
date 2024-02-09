@@ -7,7 +7,6 @@ Al presionar el botón se registra la última posición, la cual al variar más 
 
 # Contenido
 Se puede ver el funcionamiento del circuito en este enlace de Tinkercad:
-
 https://www.tinkercad.com/things/kfj3fqPbN56-alarma-portatil
 
 En este drive hay imágenes, a más, de un video del uso:
